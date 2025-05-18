@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id= M-Mikran-Sandhu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy me a coffee
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MuhammadMikranSandhu) 
 
   

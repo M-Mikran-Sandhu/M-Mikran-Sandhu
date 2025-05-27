@@ -127,7 +127,7 @@
       <a href="https://muhammedmikransandhu.netlify.app/project">
         <img src="https://i.pinimg.com/736x/f6/3f/4c/f63f4c2b21694578d39deaae47c73f4c.jpg" width="200" alt="AH Logistics Website" />
         <br>
-        My Project
+        My Projects
       </a>
     </td>
   </tr>

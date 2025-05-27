@@ -124,33 +124,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/M-Mikran-Sandhu/ah-logistics-website">
-        <img src="https://ahlogdispatch.com/wp-content/uploads/2023/12/cropped-AH-LOGISTICS-DISPATCH-LLC.png" width="200" alt="AH Logistics Website" />
+      <a href="https://muhammedmikransandhu.netlify.app/project">
+        <img src="https://i.pinimg.com/736x/f6/3f/4c/f63f4c2b21694578d39deaae47c73f4c.jpg" width="200" alt="AH Logistics Website" />
         <br>
-        AH Logistics Website
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/M-Mikran-Sandhu/online-finds-ecommerce">
-        <img src="https://onlinefindspakistan.files.wordpress.com/2023/10/best-quality.png" width="200" alt="Online Finds E-commerce" />
-        <br>
-        Online Finds E-commerce
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/M-Mikran-Sandhu/alpha-academy-portal">
-        <img src="https://alpha-acadmey.netlify.app/assets/img/logo.png" width="200" alt="Alpha Academy Portal" />
-        <br>
-        Alpha Academy Portal
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/M-Mikran-Sandhu/portfolio-website">
-        <img src="https://muhammedmikransandhu.netlify.app/assets/img/mms-logo.png" width="200" alt="Portfolio Website" />
-        <br>
-        Portfolio Website
+        My Project
       </a>
     </td>
   </tr>

@@ -121,23 +121,40 @@
 
 ## 🌟 Projects
 
-<p align="center">
-  <a href="https://github.com/M-Mikran-Sandhu/ah-logistics-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Mikran-Sandhu&repo=ah-logistics-website&theme=dark" alt="AH Logistics Website" />
-  </a>
-  <a href="https://github.com/M-Mikran-Sandhu/online-finds-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Mikran-Sandhu&repo=online-finds-ecommerce&theme=dark" alt="Online Finds E-commerce" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M-Mikran-Sandhu/alpha-academy-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Mikran-Sandhu&repo=alpha-academy-portal&theme=dark" alt="Alpha Academy Portal" />
-  </a>
-  <a href="https://github.com/M-Mikran-Sandhu/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Mikran-Sandhu&repo=portfolio-website&theme=dark" alt="Portfolio Website" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/M-Mikran-Sandhu/ah-logistics-website">
+        <img src="https://ahlogdispatch.com/wp-content/uploads/2023/12/cropped-AH-LOGISTICS-DISPATCH-LLC.png" width="200" alt="AH Logistics Website" />
+        <br>
+        AH Logistics Website
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M-Mikran-Sandhu/online-finds-ecommerce">
+        <img src="https://onlinefindspakistan.files.wordpress.com/2023/10/best-quality.png" width="200" alt="Online Finds E-commerce" />
+        <br>
+        Online Finds E-commerce
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/M-Mikran-Sandhu/alpha-academy-portal">
+        <img src="https://alpha-acadmey.netlify.app/assets/img/logo.png" width="200" alt="Alpha Academy Portal" />
+        <br>
+        Alpha Academy Portal
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M-Mikran-Sandhu/portfolio-website">
+        <img src="https://muhammedmikransandhu.netlify.app/assets/img/mms-logo.png" width="200" alt="Portfolio Website" />
+        <br>
+        Portfolio Website
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -177,9 +194,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-Mikran-Sandhu&icon=0&color=0" alt="Visit Count" />
-</p>
+ 
 
 <p align="center">
   <b>Thank you for visiting my profile! Let's connect and create something amazing together.</b>

@@ -1,33 +1,35 @@
-# Muhammad Mikran Sandhu 👨‍💻
+# Muhammad Mikran Sandhu 👨‍💻 | Owner @ Alpha Solutions
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Designer+%7C+Front-End+Developer;Social+Media+Strategist+%7C+Logo+Creator;UI%2FUX+Enthusiast+%7C+E-commerce+Owner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Founder+%26+Lead+Developer+%7C+Alpha+Solutions;Web+Designer+%7C+Full+Stack+Developer;Social+Media+Strategist+%7C+UI%2FUX+Advocate" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-mikran-sandhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sandhumikran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sandhumikran@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"></a>
+  <a href="mailto:thealphasolution.lab@gmail.com"><img src="https://img.shields.io/badge/Business_Email-777?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Business Email"></a>
   <a href="https://github.com/M-Mikran-Sandhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="tel:+923217112944"><img src="https://img.shields.io/badge/Phone-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="https://taplink.cc/mmikransandhu" target="_blank"><img src="https://img.shields.io/badge/More_Links-36BCF7?style=flat-square&logo=linktree&logoColor=white" alt="Taplink"></a>
+  <a href="tel:+923217112944"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-> Innovative Web Designer, Social Media Manager, and Logo Designer skilled in front-end development, digital marketing, and project coordination. I excel at creating visually compelling designs, optimizing brand presence, and implementing growth-focused digital strategies. Passionate about problem-solving, UI/UX, and emerging tech.
+> Innovative Founder & Lead Developer at **[Alpha Solutions](https://github.com/Alpha-SolutionsCode)**, a software house focused on building scalable web & mobile applications. Also skilled as a Web Designer, Social Media Manager, and Logo Designer with expertise in front-end development and digital marketing. I excel at creating visually compelling designs, optimizing brand presence, and implementing growth-focused digital strategies. Passionate about problem-solving, UI/UX, and emerging tech.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5qZ3NqY214dG95c3Z6eXN0d2Z1eXJ4cDZ0eG50bDFtZ2N6cW91eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="350" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Coding GIF">
 </p>
 
+*   🏢 **Founder & Owner:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode) - Software House
 *   🔭 **Current Role:** Sales Agent & Website Developer @ AH Logistics Dispatch & Solution
 *   🌱 **Learning:** AI & Machine Learning for Chatbots
 *   💼 **Entrepreneur:** Running Online Finds Pakistan (E-commerce)
 *   🎓 **Education:** Pursuing Bachelor's @ University of Central Punjab
 *   🌐 **Freelance:** Website Developer (4.8/5 Client Rating)
 *   📱 **Social Media:** Manager @ Alpha Academy
-*   🎨 **Design:** Passionate Logo Designer
 
 ---
 
@@ -39,14 +41,18 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
   <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
   <!-- CMS & Platforms -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
   <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white" alt="Wix"/>
   <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="UI/UX"/>
   <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office"/>
@@ -55,8 +61,19 @@
 
 ---
 
+## 🏢 Alpha Solutions - Software House
+
+*   **Organization:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode)
+*   **Role:** Founder & Lead Developer
+*   **Focus:** Building scalable web & mobile applications for startups & businesses.
+*   **Tech:** React, Node.js, MongoDB, React Native, UI/UX.
+*   **Contact:** [thealphasolution.lab@gmail.com](mailto:thealphasolution.lab@gmail.com)
+
+---
+
 ## 💼 Professional Journey
 
+*   **Alpha Solutions** | Founder & Lead Developer *(Present)*
 *   **AH Logistics Dispatch & Solution** | Sales Agent & Website Developer *(Apr 2025 – Present)*
     *   Driving sales and developing client websites, achieving ~30% traffic increase via SEO & optimization.
 *   **Online Finds Pakistan** | Owner *(Oct 2024 – Present)*
@@ -89,17 +106,18 @@
 
 ---
 
-## ✨ My Projects
+## ✨ My Portfolio & Projects
 
 <p align="center">
-  Check out my work!
+  Explore my work and projects!
   <br>
   <a href="https://muhammedmikransandhu.netlify.app/project" target="_blank">
-    <img src="https://via.placeholder.com/300x150/1a1a1a/ffffff?text=View+My+Portfolio" alt="Project Portfolio Link" style="border-radius: 8px;"/>
+    <img src="https://i.pinimg.com/736x/f6/3f/4c/f63f4c2b21694578d39deaae47c73f4c.jpg" alt="Project Portfolio Link" style="border-radius: 8px;"/>
   </a>
+  <br>
+  <a href="https://pin.it/26zY7p33V" target="_blank">🎬 Watch a Project Demo Video</a>
 </p>
 
-*Note: Consider replacing the placeholder image with a custom banner or GIF.* 
 
 ---
 
@@ -121,9 +139,10 @@
 
 ## 🎯 Current Focus
 
+*   🚀 Leading development at **Alpha Solutions**.
 *   🤖 Integrating AI/ML for advanced chatbot services.
 *   📈 Mastering advanced SEO techniques.
-*   🛒 Expanding e-commerce operations for Online Finds Pakistan.
+*   🛒 Expanding e-commerce operations for **Online Finds Pakistan**.
 *   🎨 Enhancing UI/UX design proficiency.
 *   💻 Exploring new web development frameworks & technologies.
 

@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-mikran-sandhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sandhumikran@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"></a>
+  <a href="mailto:mikransandhuccs@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"></a>
   <a href="mailto:thealphasolution.lab@gmail.com"><img src="https://img.shields.io/badge/Business_Email-777?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Business Email"></a>
   <a href="https://github.com/M-Mikran-Sandhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://taplink.cc/mmikransandhu" target="_blank"><img src="https://img.shields.io/badge/More_Links-36BCF7?style=flat-square&logo=linktree&logoColor=white" alt="Taplink"></a>
-  <a href="tel:+923217112944"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="https://wa.me/+92196446120"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
 </p>
 
 ---

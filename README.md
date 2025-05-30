@@ -1,185 +1,147 @@
-# 👨‍💻 Muhammad Mikran Sandhu
+# Muhammad Mikran Sandhu 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Web+Designer;Social+Media+Manager;Logo+Designer;Front-End+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Designer+%7C+Front-End+Developer;Social+Media+Strategist+%7C+Logo+Creator;UI%2FUX+Enthusiast+%7C+E-commerce+Owner" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/m-mikran-sandhu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-mikran-sandhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sandhumikran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/M-Mikran-Sandhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="tel:+923217112944"><img src="https://img.shields.io/badge/Phone-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+> Innovative Web Designer, Social Media Manager, and Logo Designer skilled in front-end development, digital marketing, and project coordination. I excel at creating visually compelling designs, optimizing brand presence, and implementing growth-focused digital strategies. Passionate about problem-solving, UI/UX, and emerging tech.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5qZ3NqY214dG95c3Z6eXN0d2Z1eXJ4cDZ0eG50bDFtZ2N6cW91eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="350" alt="Coding GIF">
+</p>
+
+*   🔭 **Current Role:** Sales Agent & Website Developer @ AH Logistics Dispatch & Solution
+*   🌱 **Learning:** AI & Machine Learning for Chatbots
+*   💼 **Entrepreneur:** Running Online Finds Pakistan (E-commerce)
+*   🎓 **Education:** Pursuing Bachelor's @ University of Central Punjab
+*   🌐 **Freelance:** Website Developer (4.8/5 Client Rating)
+*   📱 **Social Media:** Manager @ Alpha Academy
+*   🎨 **Design:** Passionate Logo Designer
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <!-- CMS & Platforms -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white" alt="Wix"/>
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
+</p>
+
+---
+
+## 💼 Professional Journey
+
+*   **AH Logistics Dispatch & Solution** | Sales Agent & Website Developer *(Apr 2025 – Present)*
+    *   Driving sales and developing client websites, achieving ~30% traffic increase via SEO & optimization.
+*   **Online Finds Pakistan** | Owner *(Oct 2024 – Present)*
+    *   Managing e-commerce operations.
+*   **Alpha Academy** | Social Media Manager & Website Developer *(Jan 2022 – Present)*
+    *   Boosting brand visibility, designing logos, and developing scalable websites.
+*   **Freelance** | Website Developer *(Oct 2024 – Present)*
+    *   Delivered 5+ responsive sites (e-commerce, portfolio, etc.) with a 4.8/5 satisfaction rating.
+*   **Leverage Info** | Freelance Blogger *(Mar 2024 – Present)*
+    *   Content creation and social media management.
+*   **CRAFTSCODE SOLUTION** | Sales & Marketing Specialist *(Oct 2024 – Jan 2025)*
+    *   Developed optimized landing pages for campaigns.
+*   **APPPILLARS** | Website Developer *(Jan 2024 – Oct 2024)*
+    *   Assisted in JS/React web app development, enhancing UI/UX.
+*   **Silverlight Research Expert Network** | Market Research Analyst *(Oct 2024)*
+    *   Analyzed digital marketing trends and campaign performance.
+
+---
+
+## 🎓 Education & Certifications
+
+*   **BSc Computer Science** - University of Central Punjab, Gujranwala *(Nov 2023 – Jul 2027)*
+*   **Intermediate** - Punjab Group of Colleges, Gujranwala *(Oct 2021 – Apr 2023)*
+*   **Matric** - Quaid-e-Azam Public School, Gujranwala *(Mar 2011 – Aug 2021)*
+
+---
+
+*   📜 **Microsoft Office Specialist** - Microsoft
+*   📜 **HTML5 & Responsive Web Design** - Aptect
+
+---
+
+## ✨ My Projects
+
+<p align="center">
+  Check out my work!
+  <br>
+  <a href="https://muhammedmikransandhu.netlify.app/project" target="_blank">
+    <img src="https://via.placeholder.com/300x150/1a1a1a/ffffff?text=View+My+Portfolio" alt="Project Portfolio Link" style="border-radius: 8px;"/>
   </a>
-  <a href="mailto:sandhumikran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/M-Mikran-Sandhu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="tel:+923217112944">
-    <img src="https://img.shields.io/badge/Phone-2CA5E0?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
-</div>
+</p>
 
-## 📋 About Me
+*Note: Consider replacing the placeholder image with a custom banner or GIF.* 
 
-> Innovative and highly skilled Web Designer, Social Media Manager, and Logo Designer with expertise in front-end web development, digital marketing, and project coordination. Adept at creating visually compelling designs, optimizing brand presence, and implementing digital strategies for enhanced business growth. Passionate about problem-solving, UI/UX design, and emerging technologies.
+---
 
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 Currently working as **Sales Agent & Website Developer** at AH Logistics Dispatch & Solution
-- 🌱 Learning **AI and Machine Learning** for chatbot services
-- 💼 Running my own e-commerce venture: **Online Finds Pakistan**
-- 🎓 Pursuing Bachelor's degree at **University of Central Punjab**
-- 🌐 Freelance Website Developer with **4.8/5 client satisfaction rating**
-- 📱 Social Media Manager at **Alpha Academy**
-- 🎨 Logo Designer with a passion for creating unique brand identities
-
-<br clear="right">
-
-## 🛠️ Technical Skills
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Mikran-Sandhu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mikran-Sandhu&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mikran-Sandhu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
-  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Mikran-Sandhu&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/C_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-</p>
+---
 
-## 💼 Professional Experience
+## 🎯 Current Focus
 
-### 🚀 Sales Agent & Website Developer
-**AH Logistics Dispatch & Solution** | *April 2025 — Present*
+*   🤖 Integrating AI/ML for advanced chatbot services.
+*   📈 Mastering advanced SEO techniques.
+*   🛒 Expanding e-commerce operations for Online Finds Pakistan.
+*   🎨 Enhancing UI/UX design proficiency.
+*   💻 Exploring new web development frameworks & technologies.
 
-- Generated leads, built client relationships, presented value propositions, and closed deals for logistics services
-- Increased client website traffic by an average of 30% through strategic SEO implementation integrated within custom web development solutions and performance optimization techniques
-
-### 💻 Sales And Marketing Specialist
-**CRAFTSCODE SOLUTION** | *October 2024 — January 2025*
-
-- Provided website solutions that included the development of custom landing pages optimized for email campaign traffic and conversions
-
-### 🌐 Website Developer
-**APPPILLARS** | *January 2024 — October 2024*
-
-- Assisted in the development of web applications using JavaScript and React.js
-- Collaborated with developers and designers to enhance UI/UX functionality
-
-### 📊 Market Research Analyst
-**Silverlight Research Expert Network** | *October 2024*
-
-- Conducted comprehensive market analysis to identify trends and opportunities in the digital marketing landscape
-- Utilized data analytics tools to measure campaign performance and optimize marketing efforts
-
-### 📝 Freelance Blogger
-**Leverage Info** | *March 2024 — Present*
-
-- Spearhead social media management, enhancing brand visibility and engagement
-- Create unique, high-impact logos for branding and marketing campaigns
-
-### 🏫 Social Media Manager & Website Developer
-**Alpha Academy** | *January 2022 — Present*
-
-- Spearhead social media management, enhancing brand visibility and engagement
-- Create unique, high-impact logos for branding and marketing campaigns
-- Developed and implemented scalable website architectures to accommodate future growth and evolving business requirements
-
-### 🛒 Owner
-**Online Finds Pakistan** | *October 2024 — Present*
-
-- Discover a world of quality at OnlineFinds.com! We bring you the best products from around the globe, right to your doorstep
-
-### 👨‍💻 Freelance Website Developer
-*October 2024 — Present*
-
-- Developed and deployed 5+ responsive websites for diverse clients (e-commerce, portfolio, small business, dispatch company)
-- Achieved an average client satisfaction rating of 4.8/5
-
-## 🎓 Education
-
-- **Bachelor's degree** - University of Central Punjab, Gujranwala *(November 2023 — July 2027)*
-- **Intermediate** - Punjab Group of Colleges, Gujranwala *(October 2021 — April 2023)*
-- **Matric** - Quaid-e-Azam Public School Gujranwala *(March 2011 — August 2021)*
-
-## 📜 Certifications
-
-- **Microsoft Office Specialist** - Microsoft
-- **HTML5 and Responsive Web Design** - Aptect
-
-## 🌟 Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://muhammedmikransandhu.netlify.app/project">
-        <img src="https://i.pinimg.com/736x/f6/3f/4c/f63f4c2b21694578d39deaae47c73f4c.jpg" width="200" alt="AH Logistics Website" />
-        <br>
-        My Projects
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Mikran-Sandhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mikran-Sandhu&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mikran-Sandhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Mikran-Sandhu&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## 🔍 Current Focus
-
-- AI and Machine Learning integration for chatbot services
-- Advanced SEO techniques for website optimization
-- Expanding e-commerce business operations
-- Enhancing UI/UX design skills
-- Exploring new web development frameworks
+---
 
 ## 🌐 Languages
 
-- English
-- Urdu
-- Panjabi
+*   🇬🇧 English (Fluent)
+*   🇵🇰 Urdu (Native)
+*   🇵🇰 Panjabi (Native)
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
- 
 
 <p align="center">
-  <b>Thank you for visiting my profile! Let's connect and create something amazing together.</b>
+  <b>Thanks for stopping by! Let's connect and build something amazing. ✨</b>
 </p>
 
-<!-- 
-Note: To use this README for your GitHub profile:
-1. Create a new repository with your username as the repository name (M-Mikran-Sandhu)
-2. Add this file as README.md
-3. GitHub will automatically display it on your profile page
--->

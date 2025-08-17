@@ -112,7 +112,7 @@
   Explore my work and projects!
   <br>
   <a href="https://mmikransandhu.alphasolutions.online/project" target="_blank">
-    <img src="https://i.pinimg.com/736x/f6/3f/4c/f63f4c2b21694578d39deaae47c73f4c.jpg" alt="Project Portfolio Link" style="border-radius: 8px;"/>
+    <img src="https://i.pinimg.com/736x/b4/f0/8f/b4f08f676a8efb3ead615829ff3ef930.jpg" alt="Project Portfolio Link" style="border-radius: 50%;"/>
   </a>
   <br>
   <a href="https://pin.it/26zY7p33V" target="_blank">🎬 Watch a Project Demo Video</a>

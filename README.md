@@ -24,7 +24,6 @@
 </p>
 
 *   🏢 **Founder & Owner:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode) - Software House
-*   🔭 **Current Role:** Sales Agent & Website Developer @ AH Logistics Dispatch & Solution
 *   🌱 **Learning:** AI & Machine Learning for Chatbots
 *   💼 **Entrepreneur:** Running Online Finds Pakistan (E-commerce)
 *   🎓 **Education:** Pursuing Bachelor's @ University of Central Punjab
@@ -111,7 +110,7 @@
 <p align="center">
   Explore my work and projects!
   <br>
-  <a href="https://mmikransandhu.alphasolutions.online/project" target="_blank">
+  <a href="https://mikran.alphasolutions.online/projects" target="_blank">
     <img src="https://i.pinimg.com/736x/b4/f0/8f/b4f08f676a8efb3ead615829ff3ef930.jpg" alt="Project Portfolio Link" style="border-radius: 50%;"/>
   </a>
   <br>

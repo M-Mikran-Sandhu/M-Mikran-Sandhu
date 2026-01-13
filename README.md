@@ -10,7 +10,7 @@
   <a href="mailto:thealphasolution.lab@gmail.com"><img src="https://img.shields.io/badge/Business_Email-777?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Business Email"></a>
   <a href="https://github.com/M-Mikran-Sandhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://taplink.cc/mmikransandhu" target="_blank"><img src="https://img.shields.io/badge/More_Links-36BCF7?style=flat-square&logo=linktree&logoColor=white" alt="Taplink"></a>
-  <a href="https://wa.me/+92196446120"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="https://wa.me/+923494206922"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
 </p>
 
 ---

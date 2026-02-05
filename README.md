@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-> Innovative Founder & Lead Developer at **[Alpha Solutions](https://github.com/Alpha-SolutionsCode)**, a software house focused on building scalable web & mobile applications. Also skilled as a Web Designer, Social Media Manager, and Logo Designer with expertise in front-end development and digital marketing. I excel at creating visually compelling designs, optimizing brand presence, and implementing growth-focused digital strategies. Passionate about problem-solving, UI/UX, and emerging tech.
+> Innovative Founder & Lead Developer at **[Alpha Solutions Services LLC](https://github.com/Alpha-Solutions-Services-LLC)**, a software house focused on building scalable web & mobile applications. Also skilled as a Web Designer, Social Media Manager, and Logo Designer with expertise in front-end development and digital marketing. I excel at creating visually compelling designs, optimizing brand presence, and implementing growth-focused digital strategies. Passionate about problem-solving, UI/UX, and emerging tech.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Coding GIF">

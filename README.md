@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Professional Coding GIF">
 </p>
 
-*   🏢 **Founder & Owner:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode) - Software House
+*   🏢 **Founder & Owner:** [Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC) - Software House
 *   🌱 **Learning:** AI & Machine Learning for Chatbots
 *   💼 **Entrepreneur:** Running Online Finds Pakistan (E-commerce)
 *   🎓 **Education:** Pursuing Bachelor's @ University of Central Punjab
@@ -62,11 +62,11 @@
 
 ## 🏢 Alpha Solutions - Software House
 
-*   **Organization:** [Alpha Solutions](https://github.com/Alpha-SolutionsCode)
+*   **Organization:** [Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC)
 *   **Role:** Founder & Lead Developer
 *   **Focus:** Building scalable web & mobile applications for startups & businesses.
 *   **Tech:** React, Node.js, MongoDB, React Native, UI/UX.
-*   **Contact:** [thealphasolution.lab@gmail.com](mailto:thealphasolution.lab@gmail.com)
+*   **Contact:** [thealphasolution.lab@gmail.com](muhammadmikran.alpha@gmail.com)
 
 ---
 

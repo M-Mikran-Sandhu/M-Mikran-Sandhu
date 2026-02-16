@@ -66,7 +66,7 @@
 *   **Role:** Founder & Lead Developer
 *   **Focus:** Building scalable web & mobile applications for startups & businesses.
 *   **Tech:** React, Node.js, MongoDB, React Native, UI/UX.
-*   **Contact:** [thealphasolution.lab@gmail.com](muhammadmikran.alpha@gmail.com)
+*   **Contact:** [muhammadmikran.alpha@gmail.com](muhammadmikran.alpha@gmail.com)
 
 ---
 

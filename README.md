@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-mikran-sandhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mikransandhuccs@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"></a>
+  <a href="mailto:muhammadmikran.alpha@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email"></a>
   <a href="mailto:thealphasolution.lab@gmail.com"><img src="https://img.shields.io/badge/Business_Email-777?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Business Email"></a>
   <a href="https://github.com/M-Mikran-Sandhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://taplink.cc/mmikransandhu" target="_blank"><img src="https://img.shields.io/badge/More_Links-36BCF7?style=flat-square&logo=linktree&logoColor=white" alt="Taplink"></a>
@@ -66,7 +66,7 @@
 *   **Role:** Founder & Lead Developer
 *   **Focus:** Building scalable web & mobile applications for startups & businesses.
 *   **Tech:** React, Node.js, MongoDB, React Native, UI/UX.
-*   **Contact:** [muhammadmikran.alpha@gmail.com](muhammadmikran.alpha@gmail.com)
+*   **Contact:** [muhammadmikran.alpha@gmail.com](mailto:muhammadmikran.alpha@gmail.com)
 
 ---
 

@@ -25,7 +25,7 @@
 
 *   🏢 **Founder & Owner:** [Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC) - Software House
 *   🌱 **Learning:** AI & Machine Learning for Chatbots
-*   💼 **Entrepreneur:** Running Online Finds Pakistan (E-commerce)
+*   💼 **Entrepreneur:**Soon Running Alpha Store (E-commerce)
 *   🎓 **Education:** Pursuing Bachelor's @ University of Central Punjab
 *   🌐 **Freelance:** Website Developer (4.8/5 Client Rating)
 *   📱 **Social Media:** Manager @ Alpha Academy
@@ -69,27 +69,28 @@
 *   **Contact:** [muhammadmikran.alpha@gmail.com](mailto:muhammadmikran.alpha@gmail.com)
 
 ---
-
 ## 💼 Professional Journey
 
-*   **Alpha Solutions** | Founder & Lead Developer *(Present)*
-*   **AH Logistics Dispatch & Solution** | Sales Agent & Website Developer *(Apr 2025 – Present)*
-    *   Driving sales and developing client websites, achieving ~30% traffic increase via SEO & optimization.
-*   **Online Finds Pakistan** | Owner *(Oct 2024 – Present)*
-    *   Managing e-commerce operations.
-*   **Alpha Academy** | Social Media Manager & Website Developer *(Jan 2022 – Present)*
-    *   Boosting brand visibility, designing logos, and developing scalable websites.
-*   **Freelance** | Website Developer *(Oct 2024 – Present)*
-    *   Delivered 5+ responsive sites (e-commerce, portfolio, etc.) with a 4.8/5 satisfaction rating.
-*   **Leverage Info** | Freelance Blogger *(Mar 2024 – Present)*
-    *   Content creation and social media management.
-*   **CRAFTSCODE SOLUTION** | Sales & Marketing Specialist *(Oct 2024 – Jan 2025)*
-    *   Developed optimized landing pages for campaigns.
-*   **APPPILLARS** | Website Developer *(Jan 2024 – Oct 2024)*
-    *   Assisted in JS/React web app development, enhancing UI/UX.
-*   **Silverlight Research Expert Network** | Market Research Analyst *(Oct 2024)*
-    *   Analyzed digital marketing trends and campaign performance.
+### **Alpha Solutions Services LLC | Founder & Full Stack Developer**
+*Jun 2025 – Present* 
+* Architected and deployed full-stack applications using **React, Flask, and Laravel**.
+* Designed **REST APIs** for secure authentication and complex data processing workflows.
+* Reduced page load times and boosted client traffic by **22%+** through technical SEO and performance optimization.
+* Deployed secure e-commerce platforms on **WordPress and Shopify**.
 
+### **H & A Solutions For Logistics LLC | Developer & Truck Dispatcher**
+*Apr 2025 – Nov 2026*  
+* Built an **SEO-driven logistics platform** with automated backend lead capture and inquiry workflows.
+* [cite_start]Managed U.S. truck dispatching using **DAT and Truckstop** to optimize profitability and route coordination.
+* [cite_start]Applied structured debugging and performance monitoring to maintain real-time operational systems.
+
+### **Alpha Store | Owner**
+*Oct 2024 – Present*
+* Leading end-to-end e-commerce operations, focusing on custom solution integration and digital marketing.
+
+### **Alpha Academy | Social Media Manager & Web Developer**
+*Jan 2022 – Present*
+* Driving brand visibility and designing scalable web solutions to enhance digital presence.
 ---
 
 ## 🎓 Education & Certifications
@@ -98,12 +99,6 @@
 *   **Intermediate** - Punjab Group of Colleges, Gujranwala *(Oct 2021 – Apr 2023)*
 *   **Matric** - Quaid-e-Azam Public School, Gujranwala *(Mar 2011 – Aug 2021)*
 
----
-
-*   📜 **Microsoft Office Specialist** - Microsoft
-*   📜 **HTML5 & Responsive Web Design** - Aptect
-
----
 
 ## ✨ My Portfolio & Projects
 
@@ -141,7 +136,7 @@
 *   🚀 Leading development at **Alpha Solutions**.
 *   🤖 Integrating AI/ML for advanced chatbot services.
 *   📈 Mastering advanced SEO techniques.
-*   🛒 Expanding e-commerce operations for **Online Finds Pakistan**.
+*   🛒 Expanding e-commerce operations for **Alpha Store**.
 *   🎨 Enhancing UI/UX design proficiency.
 *   💻 Exploring new web development frameworks & technologies.
 

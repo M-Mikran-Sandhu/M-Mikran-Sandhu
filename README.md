@@ -81,8 +81,8 @@
 ### **H & A Solutions For Logistics LLC | Developer & Truck Dispatcher**
 *Apr 2025 – Nov 2026*  
 * Built an **SEO-driven logistics platform** with automated backend lead capture and inquiry workflows.
-* [cite_start]Managed U.S. truck dispatching using **DAT and Truckstop** to optimize profitability and route coordination.
-* [cite_start]Applied structured debugging and performance monitoring to maintain real-time operational systems.
+* Managed U.S. truck dispatching using **DAT and Truckstop** to optimize profitability and route coordination.
+* Applied structured debugging and performance monitoring to maintain real-time operational systems.
 
 ### **Alpha Store | Owner**
 *Oct 2024 – Present*

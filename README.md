@@ -1,96 +1,45 @@
-# Muhammad Mikran Sandhu
-### Founder & Lead Developer · [Alpha Solutions Services LLC](https://github.com/Alpha-Solutions-Services-LLC)
+# Hi, I'm Muhammad Mikran Sandhu
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+software+%26+AI+products;Freight+%C2%B7+Portals+%C2%B7+Full-stack+systems;Founder+%40+Alpha+Solutions" alt="Typing SVG" />
-</p>
+I'm a Computer Science student at the University of Central Punjab in Gujranwala, Pakistan, and I graduate in August 2027. My goal is an Ausbildung as Fachinformatiker in Germany, so alongside my degree I'm learning German and working toward the Goethe B1 exam.
 
-<p align="center">
-  <a href="https://mikran.alphasolutions.online/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/m-mikran-sandhu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:thealphasolution.lab@gmail.com"><img src="https://img.shields.io/badge/Business_Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Business Email"></a>
-  <a href="https://github.com/Alpha-Solutions-Services-LLC"><img src="https://img.shields.io/badge/Alpha_Org-181717?style=flat-square&logo=github&logoColor=white" alt="Alpha Org"></a>
-  <a href="https://wa.me/923494206922"><img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
+Most of what you see here started as coursework or as small websites for real clients. I like building things people actually use, and I like understanding how they work underneath.
 
----
+## What I work with
 
-## About
+**Languages:** JavaScript, TypeScript, Python, HTML, CSS, C++, SQL, Assembly
+**Frontend:** React, Vite, Tailwind CSS
+**Backend:** Flask, Node.js with Express
+**Computer vision:** OpenCV, MediaPipe, Pillow, NumPy
+**Tools:** Git and GitHub, GitHub Pages, Netlify, Vercel
 
-I run **Alpha Solutions** — a software house shipping production web apps, portals, and AI-assisted tools for businesses (logistics, operations, and client delivery).
+## Projects I'm proud of
 
-I care about systems that stay closed by default, move fast in production, and look intentional — not demos that die after the pitch.
+- **[Image Tampering Detection](https://github.com/M-Mikran-Sandhu/image-tampering-detection)**: Flask and React app that checks whether a photo was edited, using Error Level Analysis and EXIF metadata.
+- **[Face Recognition System](https://github.com/M-Mikran-Sandhu/Face-Recognition-System)**: face login with a Flask, OpenCV and MediaPipe backend and a React frontend.
+- **[Alpha Folder Locker](https://github.com/M-Mikran-Sandhu/Alpha-Folder-Locker)**: Python command line tool that locks folders using OS permissions plus hashed passwords.
+- **[Algorithms Exam Prep](https://github.com/M-Mikran-Sandhu/algo-exam-prep)**: React and TypeScript study site with quizzes for my Design and Analysis of Algorithms course.
+- **[Portfolio](https://github.com/M-Mikran-Sandhu/M-Mikran-Portfolio)**: my personal site, built with React, Vite and Tailwind CSS.
+- **Client websites**: responsive sites for local doctors and a professor, for example [Dr. Abdul Malik](https://github.com/M-Mikran-Sandhu/Dr-Abdul-Malik).
 
-**Focus areas**
-- Full-stack product delivery (Next.js · React · TypeScript · Supabase · Node)
-- AI / CV features (face recognition, image forensics, assistant workflows)
-- Logistics & operations software (dispatch, freight, client portals)
-- Brand + UX for products that clients actually use
+## Work experience
 
----
+**Truck Dispatcher, US freight (remote), since April 2025**
+I plan loads for US trucking companies using load boards like DAT and Truckstop. The job taught me to work with tight deadlines, talk clearly with drivers and brokers, and solve problems while the clock is running. It is also why I enjoy building tools for logistics.
 
-## What I ship
-
-| Surface | Role |
-|--------|------|
-| [Alpha Solutions](https://github.com/Alpha-Solutions-Services-LLC) | Founder — product architecture, delivery, AI tooling |
-| [Portfolio](https://mikran.alphasolutions.online/) | Selected client & product work |
-| [Alpha Academy](https://github.com/M-Mikran-Sandhu/Alpha-Academy) | Education brand + web platforms |
-| AI / CV repos (pinned) | Face recognition, image tampering detection, utilities |
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
----
-
-## Experience
-
-### Alpha Solutions Services LLC — Founder & Lead Developer
-*Jun 2025 – Present*
-- Build and operate full-stack products across portals, ops tools, and AI-assisted staff workflows
-- Own architecture, auth/security defaults, delivery cadence, and client-facing UX
-- Ship REST/BFF APIs, Supabase-backed systems, and production deploys on Vercel/Netlify
-
-### H & A Solutions For Logistics LLC — Developer & Truck Dispatcher
-*Apr 2025 – Present*
-- Built SEO-driven logistics surfaces with lead capture and inquiry automation
-- Ran U.S. truck dispatching (DAT / Truckstop) — real ops constraint informs product decisions
-
-### Alpha Academy — Web & Brand
-*Jan 2022 – Present*
-- Web platforms and digital presence for the education brand
-
----
+**Freelance web developer, since 2025**
+I build and deploy websites for small businesses and professionals in Pakistan.
 
 ## Education
 
-**BSc Computer Science** — University of Central Punjab, Gujranwala *(2023 – 2027)*
+**BSc Computer Science**, University of Central Punjab, Gujranwala (2023 to August 2027)
 
----
+## Languages
 
-## GitHub
+Urdu (native), English (fluent), German (learning, aiming for B1)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Mikran-Sandhu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mikran-Sandhu&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
-</p>
+## Contact
 
----
+Portfolio: [mikran.alphasolutions.software](https://mikran.alphasolutions.software/)
+Email: mikran.student@gmail.com
 
-<p align="center">
-  <b>Building Alpha. Open to serious product & partnership conversations.</b><br/>
-  <a href="mailto:thealphasolution.lab@gmail.com">thealphasolution.lab@gmail.com</a>
-</p>
+Ich freue mich über Kontakt von Ausbildungsbetrieben in Deutschland.

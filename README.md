@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Mikran Sandhu
 
-I'm a Computer Science student at the University of Central Punjab in Gujranwala, Pakistan, and I graduate in August 2027. My goal is an Ausbildung as Fachinformatiker in Germany, so alongside my degree I'm learning German and working toward the Goethe B1 exam.
+I'm a Computer Science student at the University of Central Punjab in Gujranwala, Pakistan, and I will graduate in August 2027. My goal is an Ausbildung as Fachinformatiker in Germany, so alongside my degree I'm learning German and working toward the Goethe B1 exam.
 
 Most of what you see here started as coursework or as small websites for real clients. I like building things people actually use, and I like understanding how they work underneath.
 

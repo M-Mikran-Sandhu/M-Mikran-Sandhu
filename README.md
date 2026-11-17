@@ -21,7 +21,7 @@ I am open to internships, research opportunities, graduate (MSc) study, scholars
 | [Real-Time Process Scheduler](https://github.com/M-Mikran-Sandhu/Real-Time-Process-Scheduler-OS) | Python CLI and Tkinter app that simulates Earliest Deadline First and Rate Monotonic scheduling, with unit tests for preemption. |
 | [Alpha Folder Locker](https://github.com/M-Mikran-Sandhu/Alpha-Folder-Locker) | Python CLI and Tkinter tool that locks folders with OS permissions and SHA-256 hashed passwords. It controls access; it does not encrypt files. |
 | [Data Structures and Algorithms](https://github.com/M-Mikran-Sandhu/DATA-Structure-ALG) | C++ and Python implementations of trees, AVL trees, heaps, queues, and linked lists, with a generated page for browsing the code. |
-| [Portfolio](https://github.com/M-Mikran-Sandhu/M-Mikran-Portfolio) | Personal site built with React, Vite, and Tailwind CSS. Live at [mikran.alphasolutions.software](https://mikran.alphasolutions.software). |
+| [Portfolio](https://github.com/M-Mikran-Sandhu/M-Mikran-Portfolio) | Personal site built with React, Vite, and Tailwind CSS. Live at [m-mikran-portfolio.vercel.app](https://m-mikran-portfolio.vercel.app). |
 | [Alpha Store](https://github.com/M-Mikran-Sandhu/E-Commerce) | React and Tailwind store front end with a product catalog, cart, and dark mode. Front end only; there is no checkout backend. |
 | Client websites | Responsive sites for local professionals, including [Dr. Abdul Malik](https://github.com/M-Mikran-Sandhu/Dr-Abdul-Malik), [Dr. Dure-e-Kashaf](https://github.com/M-Mikran-Sandhu/DrKashaf), and [Waqar Ramzan](https://github.com/M-Mikran-Sandhu/Waqar-Ramzan). |
 
@@ -39,6 +39,6 @@ I am open to internships, research opportunities, graduate (MSc) study, scholars
 
 ## Contact
 
-Portfolio: [mikran.alphasolutions.software](https://mikran.alphasolutions.software/)
+Portfolio: [m-mikran-portfolio.vercel.app](https://m-mikran-portfolio.vercel.app/)
 GitHub: [M-Mikran-Sandhu](https://github.com/M-Mikran-Sandhu)
 Email: mikran.student@gmail.com

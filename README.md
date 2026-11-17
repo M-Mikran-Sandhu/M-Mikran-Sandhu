@@ -1,45 +1,44 @@
-# Hi, I'm Muhammad Mikran Sandhu
+# Muhammad Mikran Sandhu
 
-I'm a Computer Science student at the University of Central Punjab in Gujranwala, Pakistan, and I will graduate in August 2027. My goal is an Ausbildung as Fachinformatiker in Germany, so alongside my degree I'm learning German and working toward the Goethe B1 exam.
+I am a BSc Computer Science student at the University of Central Punjab, Gujranwala Campus, in Pakistan. I am in my seventh semester and expect to graduate in August 2027.
 
-Most of what you see here started as coursework or as small websites for real clients. I like building things people actually use, and I like understanding how they work underneath.
+Most of the work here started as university coursework or as websites for real clients. I like building things people actually use, and I want to understand how they work underneath, especially as software starts to include AI.
 
-## What I work with
+I am open to internships, research opportunities, graduate (MSc) study, scholarships, and software roles from 2027, in any country.
 
-**Languages:** JavaScript, TypeScript, Python, HTML, CSS, C++, SQL, Assembly
+## Interests
+
+- Practical machine learning and reliable AI software
+- Systems software, including scheduling, access control, and developer tools
+- Digital image forensics and image analysis
+- Full-stack web development
+
+## Selected projects
+
+| Project | Description |
+| --- | --- |
+| [Image Tampering Detection](https://github.com/M-Mikran-Sandhu/image-tampering-detection) | Flask and React app that flags likely photo edits using Error Level Analysis, EXIF metadata, JPEG ghost checks, and statistical image analysis. |
+| [Real-Time Process Scheduler](https://github.com/M-Mikran-Sandhu/Real-Time-Process-Scheduler-OS) | Python CLI and Tkinter app that simulates Earliest Deadline First and Rate Monotonic scheduling, with unit tests for preemption. |
+| [Alpha Folder Locker](https://github.com/M-Mikran-Sandhu/Alpha-Folder-Locker) | Python CLI and Tkinter tool that locks folders with OS permissions and SHA-256 hashed passwords. It controls access; it does not encrypt files. |
+| [Data Structures and Algorithms](https://github.com/M-Mikran-Sandhu/DATA-Structure-ALG) | C++ and Python implementations of trees, AVL trees, heaps, queues, and linked lists, with a generated page for browsing the code. |
+| [Portfolio](https://github.com/M-Mikran-Sandhu/M-Mikran-Portfolio) | Personal site built with React, Vite, and Tailwind CSS. Live at [mikran.alphasolutions.software](https://mikran.alphasolutions.software). |
+| [Alpha Store](https://github.com/M-Mikran-Sandhu/E-Commerce) | React and Tailwind store front end with a product catalog, cart, and dark mode. Front end only; there is no checkout backend. |
+| Client websites | Responsive sites for local professionals, including [Dr. Abdul Malik](https://github.com/M-Mikran-Sandhu/Dr-Abdul-Malik), [Dr. Dure-e-Kashaf](https://github.com/M-Mikran-Sandhu/DrKashaf), and [Waqar Ramzan](https://github.com/M-Mikran-Sandhu/Waqar-Ramzan). |
+
+## Tech stack
+
+**Languages:** JavaScript, Python, HTML, CSS, C++
 **Frontend:** React, Vite, Tailwind CSS
-**Backend:** Flask, Node.js with Express
-**Computer vision:** OpenCV, MediaPipe, Pillow, NumPy
-**Tools:** Git and GitHub, GitHub Pages, Netlify, Vercel
-
-## Projects I'm proud of
-
-- **[Image Tampering Detection](https://github.com/M-Mikran-Sandhu/image-tampering-detection)**: Flask and React app that checks whether a photo was edited, using Error Level Analysis and EXIF metadata.
-- **[Face Recognition System](https://github.com/M-Mikran-Sandhu/Face-Recognition-System)**: face login with a Flask, OpenCV and MediaPipe backend and a React frontend.
-- **[Alpha Folder Locker](https://github.com/M-Mikran-Sandhu/Alpha-Folder-Locker)**: Python command line tool that locks folders using OS permissions plus hashed passwords.
-- **[Algorithms Exam Prep](https://github.com/M-Mikran-Sandhu/algo-exam-prep)**: React and TypeScript study site with quizzes for my Design and Analysis of Algorithms course.
-- **[Portfolio](https://github.com/M-Mikran-Sandhu/M-Mikran-Portfolio)**: my personal site, built with React, Vite and Tailwind CSS.
-- **Client websites**: responsive sites for local doctors and a professor, for example [Dr. Abdul Malik](https://github.com/M-Mikran-Sandhu/Dr-Abdul-Malik).
-
-## Work experience
-
-**Truck Dispatcher, US freight (remote), since April 2025**
-I plan loads for US trucking companies using load boards like DAT and Truckstop. The job taught me to work with tight deadlines, talk clearly with drivers and brokers, and solve problems while the clock is running. It is also why I enjoy building tools for logistics.
-
-**Freelance web developer, since 2025**
-I build and deploy websites for small businesses and professionals in Pakistan.
+**Backend:** Flask
+**Image analysis:** Pillow, NumPy
+**Tools:** Git, GitHub, GitHub Pages, Netlify, Vercel
 
 ## Education
 
-**BSc Computer Science**, University of Central Punjab, Gujranwala (2023 to August 2027)
-
-## Languages
-
-Urdu (native), English (fluent), German (learning, aiming for B1)
+**BSc Computer Science**, University of Central Punjab, Gujranwala Campus (2023 to August 2027)
 
 ## Contact
 
 Portfolio: [mikran.alphasolutions.software](https://mikran.alphasolutions.software/)
+GitHub: [M-Mikran-Sandhu](https://github.com/M-Mikran-Sandhu)
 Email: mikran.student@gmail.com
-
-Ich freue mich über Kontakt von Ausbildungsbetrieben in Deutschland.
